@@ -25,9 +25,9 @@ tâches : **TODO**
 
 **Groupe 3 :**
 
-membres : Guillaume VALETTE, Teddy JACONO, Abdelkhalek EL OMARI, Abdelhamid BASSA
+membres : **TODO**
 
-tâches : BDD -> Recherche,filtrage,données,monitoring access
+tâches : **TODO**
 
 **Groupe 4 :**
 
